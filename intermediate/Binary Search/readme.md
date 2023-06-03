@@ -19,3 +19,7 @@ Q) Find the square root of a number using binary search
 - [problem](https://www.codingninjas.com/codestudio/problems/square-root_893351?source=youtube&campaign=love_babbar_codestudio2&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio2&leftPanelTab=0)
 - [solution](https://www.codingninjas.com/codestudio/problems/square-root_893351?source=youtube&campaign=love_babbar_codestudio2&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio2&leftPanelTab=1)
 
+Q) Book Allocation problem
+
+- [problem](https://www.interviewbit.com/problems/allocate-books/)
+- [solution](https://www.interviewbit.com/problems/allocate-books/submissions/)
