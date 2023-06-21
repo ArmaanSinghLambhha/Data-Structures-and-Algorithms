@@ -15,3 +15,9 @@ Q) Move zero's to the end of the array
 - [problem](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUh6aUhKcDFyQ3ZBQWJoUlQ5Z2d1Vm1pWm1vd3xBQ3Jtc0tuaXIwZ3B2bVFYc3l6YWhCdkNPOXA3bUlrSG1DSjZuSmVfMDB4NU9ndmJTRkc0X2ZISzBfdDBOS3dxSEtLZWZyZEFZRGRwNGpNRkl5ZnJhWWs3Y05sTzFXUU94RzRvTl81QV94TzZJd2tEUVh0Y21Rbw&q=https%3A%2F%2Fleetcode.com%2Fproblems%2Fmove-zeroes%2F&v=MPvr-LmaZmA)
 - [solution](https://leetcode.com/problems/move-zeroes/submissions/975426730/)
 - [optimised](https://leetcode.com/problems/move-zeroes/submissions/975425678/)
+
+Q) Rotate an array by k
+
+- [problem](https://leetcode.com/problems/rotate-array/)
+- [solution](https://leetcode.com/problems/rotate-array/submissions/976431778/)
+
