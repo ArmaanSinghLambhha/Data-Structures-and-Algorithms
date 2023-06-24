@@ -23,8 +23,8 @@ Q) Rotate an array by k
 
 Q) Check if array is sorted and rotated
 
--[problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)
--[solution](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/submissions/976444120/)
+- [problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)
+- [solution](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/submissions/976444120/)
 
 Q) Add two arrays
 
