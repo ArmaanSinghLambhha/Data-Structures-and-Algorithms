@@ -8,6 +8,7 @@ A comprehensive collection of my Data Structures and Algorithms (DSA) codes, org
 
 - [Arrays](./basic/arrays/)
 - [Basic Algorithms](./basic/basic%20algorithms/)
+- [String](./basic/string/)
 
 ## Intermediate
 
