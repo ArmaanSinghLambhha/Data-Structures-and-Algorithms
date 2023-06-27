@@ -24,3 +24,8 @@ Q) Replace Spaces in a string
 
 - [problem](https://www.codingninjas.com/studio/problems/replace-spaces_1172172)
 - [solution](https://www.codingninjas.com/studio/problems/replace-spaces_1172172?leftPanelTab=1)
+
+Q) Remove all occurence of a substring
+
+- [problem](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/)
+- [solution](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/submissions/980696702/)
