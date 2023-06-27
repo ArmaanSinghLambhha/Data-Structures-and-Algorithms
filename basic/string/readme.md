@@ -29,3 +29,9 @@ Q) Remove all occurence of a substring
 
 - [problem](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/)
 - [solution](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/submissions/980696702/)
+
+Q) Permutation in String
+
+- [problem](https://leetcode.com/problems/permutation-in-string/description/)
+- [solution](https://leetcode.com/problems/permutation-in-string/submissions/980729138/)
+
