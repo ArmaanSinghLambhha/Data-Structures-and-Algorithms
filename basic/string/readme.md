@@ -19,3 +19,8 @@ Q) Maximum occuring character in a string
 
 - [problem](https://practice.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1)
 - [solution](./getMaxOccuringChar.cpp)
+
+Q) Replace Spaces in a string
+
+- [problem](https://www.codingninjas.com/studio/problems/replace-spaces_1172172)
+- [solution](https://www.codingninjas.com/studio/problems/replace-spaces_1172172?leftPanelTab=1)
