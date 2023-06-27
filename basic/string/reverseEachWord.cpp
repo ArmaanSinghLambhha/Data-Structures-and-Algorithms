@@ -16,7 +16,7 @@ string reverse(string w){
 }
 
 string reversewords(string s){
-        int len = s.size() -1;
+        int len = s.length();
 
         string word = "";
         string finalWord = "";
@@ -25,13 +25,15 @@ string reversewords(string s){
 
             if(s[i] == ' ' || s[i] == '\0'){
                 // word completed
-                finalWord += reverse(word);
+                finalWord += reverse(word) + " ";
                 word = "";
             }
             else{
                 word += s[i];
             }
         }
+        int finalWordLen = finalWord.length();
+        finalWord = finalWord.erase(finalWordLen-1);
         return finalWord;
 }
 

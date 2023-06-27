@@ -13,6 +13,7 @@ Q) Check palindrome or not
 Q) Reverse each word in a given string
 
 - [problem](https://practice.geeksforgeeks.org/problems/reverse-each-word-in-a-given-string1001/1)
+- [solution](./reverseEachWord.cpp)
 
 Q) Maximum occuring character in a string
 
