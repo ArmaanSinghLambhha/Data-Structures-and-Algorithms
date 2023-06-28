@@ -40,5 +40,8 @@ Q) String Compression
 - [problem](https://leetcode.com/problems/string-compression/description/)
 - [solution](https://leetcode.com/problems/string-compression/submissions/980761702/)
 
+Q) Remove all Adjacent Duplicate in String
 
+- [problem](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)
+- [solution](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/submissions/980773472/)
 
