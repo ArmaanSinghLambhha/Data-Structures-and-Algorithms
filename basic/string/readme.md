@@ -35,3 +35,10 @@ Q) Permutation in String
 - [problem](https://leetcode.com/problems/permutation-in-string/description/)
 - [solution](https://leetcode.com/problems/permutation-in-string/submissions/980729138/)
 
+Q) String Compression
+
+- [problem](https://leetcode.com/problems/string-compression/description/)
+- [solution](https://leetcode.com/problems/string-compression/submissions/980761702/)
+
+
+
