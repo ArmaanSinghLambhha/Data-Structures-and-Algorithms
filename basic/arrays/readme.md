@@ -29,3 +29,8 @@ Q) Check if array is sorted and rotated
 Q) Add two arrays
 
 - [problem](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2x1eW1xNUx4Z1R6ajVDOWdnal9TSEl0TDNGUXxBQ3Jtc0tsOTZQQm1hUURuWmpXeG1qdGxMNVVqeFNEOXk3VXR2TGs2RlpCTDJNZzNvclpBR09LSE1pYVduODNPdkpWU2JZeFNlRWFUMGdldzYxRHpwRU05RUNCS2NXWDVpSk0yTzVJejgyeDBnOWd0bkRSRUUxNA&q=https%3A%2F%2Fbit.ly%2F3DXfsDZ&v=Z7_nMTHROZo)
+
+Q) Missing number in a array
+
+- [problem](https://leetcode.com/problems/missing-number/description/)
+- [solution](https://leetcode.com/problems/missing-number/submissions/985187593/)
