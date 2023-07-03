@@ -9,3 +9,8 @@ Q) Spiral Print
 
 - [problem](https://leetcode.com/problems/spiral-matrix/)
 - [solution](https://leetcode.com/problems/spiral-matrix/submissions/983256759/)
+
+Q) Search in a 2d matrix part-1
+
+- [problem](https://leetcode.com/problems/search-a-2d-matrix/description/)
+- [solution](https://leetcode.com/problems/search-a-2d-matrix/submissions/)
