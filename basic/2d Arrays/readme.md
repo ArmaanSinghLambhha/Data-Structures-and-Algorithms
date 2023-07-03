@@ -13,4 +13,10 @@ Q) Spiral Print
 Q) Search in a 2d matrix part-1
 
 - [problem](https://leetcode.com/problems/search-a-2d-matrix/description/)
-- [solution](https://leetcode.com/problems/search-a-2d-matrix/submissions/)
+- [solution](https://leetcode.com/problems/search-a-2d-matrix/submissions/985138166/)
+
+Q) Search in a 2d matrix part-2
+
+- [problem](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+- [solution](https://leetcode.com/problems/search-a-2d-matrix-ii/submissions/985156065/)
+
