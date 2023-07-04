@@ -20,3 +20,7 @@ Q) Search in a 2d matrix part-2
 - [problem](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 - [solution](https://leetcode.com/problems/search-a-2d-matrix-ii/submissions/985156065/)
 
+Q) Rotate a 2d matrix by 90 degrees clockwise
+
+- [problem](https://leetcode.com/problems/rotate-image/description/)
+- [solution](https://leetcode.com/problems/rotate-image/submissions/985173118/)
