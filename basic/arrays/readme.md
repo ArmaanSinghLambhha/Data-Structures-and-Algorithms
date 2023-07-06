@@ -34,3 +34,8 @@ Q) Missing number in a array
 
 - [problem](https://leetcode.com/problems/missing-number/description/)
 - [solution](https://leetcode.com/problems/missing-number/submissions/985187593/)
+
+Q) Single number in a array
+
+- [problem](https://leetcode.com/problems/single-number/description/)
+- [solution](https://leetcode.com/problems/single-number/submissions/987796885/)
