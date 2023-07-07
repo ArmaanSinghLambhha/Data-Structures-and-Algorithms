@@ -39,3 +39,8 @@ Q) Single number in a array
 
 - [problem](https://leetcode.com/problems/single-number/description/)
 - [solution](https://leetcode.com/problems/single-number/submissions/987796885/)
+
+Q) Two sum
+
+- [problem](https://leetcode.com/problems/two-sum/description/)
+- [solution](https://leetcode.com/problems/two-sum/submissions/988653195/)
