@@ -44,3 +44,8 @@ Q) Two sum
 
 - [problem](https://leetcode.com/problems/two-sum/description/)
 - [solution](https://leetcode.com/problems/two-sum/submissions/988653195/)
+
+Q) Contains Duplicate
+
+- [problem](https://leetcode.com/problems/contains-duplicate/description/)
+- [solution](https://leetcode.com/problems/contains-duplicate/submissions/990012452/)
