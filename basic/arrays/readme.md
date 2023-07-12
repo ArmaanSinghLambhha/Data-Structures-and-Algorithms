@@ -49,3 +49,8 @@ Q) Contains Duplicate
 
 - [problem](https://leetcode.com/problems/contains-duplicate/description/)
 - [solution](https://leetcode.com/problems/contains-duplicate/submissions/990012452/)
+
+Q) Sort colours
+
+- [problelm](https://leetcode.com/problems/sort-colors/description/)
+- [solution](https://leetcode.com/problems/sort-colors/submissions/992743244/)
